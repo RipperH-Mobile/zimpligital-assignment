@@ -19,4 +19,4 @@
 1. **ติดตั้ง Flutter SDK** และตั้งค่า Environment ให้เรียบร้อย
 2. **Clone โปรเจ็กต์**:
    ```bash
-   git clone <ลิงก์ที่เก็บโค้ดของคุณ>
+   git clone  https://github.com/RipperH-Mobile/zimpligital-assignment.git
